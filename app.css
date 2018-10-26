@@ -1,0 +1,58 @@
+
+.bg-color-red {
+  border: solid 1px;
+  border-color: #C5C5C5;
+}
+
+input::-webkit-color-swatch {
+    border: none;
+}
+
+.table th {
+   text-align: center;
+}
+
+.table td {
+   text-align: center;
+}
+
+.table-width{
+    width: 1300px;
+}
+
+.scatter-dots {
+    fill: steelblue;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.highlight{
+  background-color: #F3EBAC;
+}
+
+#data-table-container {
+  margin: 5px;
+  height: 250px;
+}
+
+
+#chart-container {
+  margin: 5px;
+  height: 450px;
+}
+
+#statistic-container {
+  margin: 5px;
+  height: 100px;
+}
